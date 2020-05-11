@@ -13,7 +13,7 @@ Scripts to help you win the board-game "Codenames"!
 - Make sure to quote the ```<space separated words>``` or else they will be considered as separate command line arguments
 - Returns top occurrences of words which match the target word semantically
 
-## Getting a common word based on list of words
+## Getting generic word based on a list of words - for Spy Masters
 - ```python3 findCommonWord.py <space separated words>```
 - Finds all hypernyms of the list of words provided as cmd-line argument (Quote it!)
 
