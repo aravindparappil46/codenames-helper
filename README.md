@@ -1,6 +1,7 @@
 # Codenames helper
 Scripts to help you win the board-game "Codenames"!
-Disclaimer: This may not be super accurate!
+<br><br>
+**Disclaimer:** This may not be super accurate!
 
 # Requirements
 - python3
