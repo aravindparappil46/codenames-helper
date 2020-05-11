@@ -1,5 +1,6 @@
 # Codenames helper
 Scripts to help you win the board-game "Codenames"!
+Disclaimer: This may not be super accurate!
 
 # Requirements
 - python3
@@ -14,3 +15,6 @@ Scripts to help you win the board-game "Codenames"!
 ## Getting a common word based on list of words
 - ```python3 findCommonWord.py <space separated words>```
 - Finds all hypernyms of the list of words provided as cmd-line argument (Quote it!)
+
+<br><br>
+*Footnote: Is this cheating? Maybe. Probably.*
